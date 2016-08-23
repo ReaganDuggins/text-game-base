@@ -218,7 +218,6 @@ int main()
 	arc.push_back(x);
 	arc.push_back(y);
 	string s = "Blurfen";
-	Arc a();
 	
 	
 	return 0;
